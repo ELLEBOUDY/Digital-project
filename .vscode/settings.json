@@ -1,0 +1,19 @@
+{
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": false,
+    "strings": true
+  },
+  "editor.suggestOnTriggerCharacters": true,
+  "editor.inlineSuggest.enabled": true,
+  "editor.tabCompletion": "on",
+  "tailwindCSS.emmetCompletions": true,
+  "tailwindCSS.experimental.configFile": "./tailwind.config.js",
+  "tailwindCSS.includeLanguages": {
+    "plaintext": "html"
+  },
+  "tailwindCSS.experimental.classRegex": [
+    "class\\s*=\\s*\"([^\"]*)\"",
+    "class\\s*=\\s*'([^']*)'"
+  ]
+}
